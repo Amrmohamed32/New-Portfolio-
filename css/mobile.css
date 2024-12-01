@@ -265,11 +265,6 @@
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
-
-	/* Team */
-	 #team-section .col-md-2 {
-        width: 100%;
-    }
 	.ABOUTME{
 		display: block;
 		text-align: center;
