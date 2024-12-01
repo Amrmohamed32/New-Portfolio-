@@ -270,6 +270,13 @@
 	 #team-section .col-md-2 {
         width: 100%;
     }
+	.ABOUTME{
+		display: block;
+		text-align: center;
+	}
+	.ABOUTME img{
+		width: 70%;
+	}
 
 }
 
