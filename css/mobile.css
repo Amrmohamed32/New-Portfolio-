@@ -281,6 +281,10 @@
 	.ABOUTME img{
 		width: 70%;
 	}
+	table{
+		
+        table-layout: fixed; /* Forces the table to respect the width */
+	}
 
 }
 
