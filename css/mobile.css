@@ -273,7 +273,7 @@
 }
 
 /* Extra Small Devices, Phones */ 
-@media only screen and (max-width : 640px) {
+@media only screen and (max-width : 480px) {
 	.ABOUTME{
 		display: block;
 		text-align: center;
